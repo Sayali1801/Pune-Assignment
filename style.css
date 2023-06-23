@@ -1,0 +1,21 @@
+.p-5{
+    background-color: rgb(232,231,227);
+}
+.text{
+   color: rgb(65,127,124);
+}
+.font-weight-bolder{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: gray;
+    font-size: 25px;
+}
+.para{
+    color: gray;
+    font-size: 16px;
+}
+.btn {
+    color: rgb(65,127,124);
+    border: 1px solid rgb(65,127,124);
+    background-color: rgb(232,231,227);
+}
